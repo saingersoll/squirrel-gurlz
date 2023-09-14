@@ -5,13 +5,13 @@ Contained in the nbs folder are each teammates individual jupyternotebook work. 
 ## Seaborn Website + Github
 #### Seaborn Website: 
 
-[https://seaborn.pydata.org/index.html]
+https://seaborn.pydata.org/index.html
 
 Contains a ton of tutorials about the installation process, how to apply different powerful statistical visualization tools, and galleries demonstrating reproducible examples.
 
 #### Seaborn Github:
 
-[https://github.com/mwaskom/seaborn]
+https://github.com/mwaskom/seaborn
 
 Contains a link to the seaborn website and a detailed README document that details the Python 3.8+ system library dependenices required to use Seaborn. (These included numpy, pandas, and matplotlib). Notes on citaiton, testing, and development are additionally included.  
 
@@ -19,7 +19,7 @@ Contains a link to the seaborn website and a detailed README document that detai
 
 The survey data was originally collected and stored in to files available at this link:
 
-[https://allisonhorst.github.io/palmerpenguins/]
+https://allisonhorst.github.io/palmerpenguins/
 
 However, Python has adpated the R "palmerpenguins" dataset and created "penguins" for Python. Using the following code, this built in dataset was loaded using the following code:
 
@@ -55,14 +55,14 @@ seaborn scientific pub. citation: @article{Waskom2021,
     journal = {Journal of Open Source Software}
  }
 
- [https://seaborn.pydata.org/index.html]
+ https://seaborn.pydata.org/index.html
 
-[https://github.com/mwaskom/seaborn]
+https://github.com/mwaskom/seaborn
 
-[https://joss.theoj.org/papers/10.21105/joss.03021]
+https://joss.theoj.org/papers/10.21105/joss.03021
 
-[https://matplotlib.org/stable/tutorials/colors/colormaps.html]
+https://matplotlib.org/stable/tutorials/colors/colormaps.html
 
-[https://chat.openai.com/c/c8f56284-204e-4fdb-aae5-43e3db03e3a0]
+https://chat.openai.com/c/c8f56284-204e-4fdb-aae5-43e3db03e3a0
 
 
