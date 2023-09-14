@@ -1,5 +1,5 @@
 # Seaborn Penguins!
-Is a basic repository with an environment (squirrelgurlz), .gitignore, and a few organizational folders for data, figures, and jupyternotebooks.
+Is a basic repository with an environment (squirrelgurlz), .gitignore, and a few organizational folders for figures (figs), and jupyternotebooks (nbs).
 Contained in the nbs folder are each teammates individual jupyternotebook work. This code was then copied into seabornpenguins.ipynb 
 
 ## Seaborn Website + Github
