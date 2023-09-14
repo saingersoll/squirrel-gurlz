@@ -1,4 +1,6 @@
 # Seaborn Penguins!
+![image](https://github.com/saingersoll/squirrel-gurlz/assets/141206781/9c2086aa-0e63-46ec-973d-e7d65f94e03b)
+
 Is a basic repository with an environment (squirrelgurlz), .gitignore, and a few organizational folders for figures (figs), and jupyternotebooks (nbs).
 Contained in the nbs folder are each teammates individual jupyternotebook work. This code was then copied into seabornpenguins.ipynb 
 
