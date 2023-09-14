@@ -17,7 +17,7 @@ Contains a link to the seaborn website and a detailed README document that detai
 
 ### Reading in the data
 
-The survey data was originally collected and stored in to files available at this link:
+The survey data was originally collected and stored in files available at this link:
 
 https://allisonhorst.github.io/palmerpenguins/
 
