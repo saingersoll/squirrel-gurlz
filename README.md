@@ -39,6 +39,8 @@ However, Python has adpated the R "palmerpenguins" dataset and created "penguins
 
 6. Work together to combine everyones code a new `.ipynb` in your repo that contains an analysis and visualizations of the data!
 
+[image](https://github.com/saingersoll/squirrel-gurlz/assets/141206781/bd2a607c-e368-4139-a06d-ee8c3a605c2b)
+
 ### Citations
 seaborn scientific pub. citation: @article{Waskom2021,
     doi = {10.21105/joss.03021},
