@@ -59,6 +59,5 @@ https://joss.theoj.org/papers/10.21105/joss.03021
 
 https://matplotlib.org/stable/tutorials/colors/colormaps.html
 
-https://chat.openai.com/c/c8f56284-204e-4fdb-aae5-43e3db03e3a0
-
+https://chat.openai.com/
 
