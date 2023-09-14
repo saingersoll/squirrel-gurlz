@@ -1,5 +1,5 @@
 # Seaborn Penguins!
-[image](https://github.com/saingersoll/squirrel-gurlz/assets/141206781/9c2086aa-0e63-46ec-973d-e7d65f94e03b)
+![image](https://github.com/saingersoll/squirrel-gurlz/assets/141206781/9c2086aa-0e63-46ec-973d-e7d65f94e03b)
 
 Is a basic repository with an environment (squirrelgurlz), .gitignore, and a few organizational folders for figures (figs), and jupyternotebooks (nbs).
 Contained in the nbs folder are each teammates individual jupyternotebook work. This code was then copied into seabornpenguins.ipynb 
@@ -39,7 +39,7 @@ However, Python has adpated the R "palmerpenguins" dataset and created "penguins
 
 6. Work together to combine everyones code a new `.ipynb` in your repo that contains an analysis and visualizations of the data!
 
-[image](https://github.com/saingersoll/squirrel-gurlz/assets/141206781/bd2a607c-e368-4139-a06d-ee8c3a605c2b)
+![image](https://github.com/saingersoll/squirrel-gurlz/assets/141206781/bd2a607c-e368-4139-a06d-ee8c3a605c2b)
 
 ### Citations
 seaborn scientific pub. citation: @article{Waskom2021,
