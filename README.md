@@ -21,11 +21,7 @@ The survey data was originally collected and stored in files available at this l
 
 https://allisonhorst.github.io/palmerpenguins/
 
-However, Python has adpated the R "palmerpenguins" dataset and created "penguins" for Python. Using the following code, this built in dataset was loaded using the following code:
-
-penguins = sns.load_dataset("penguins")
-
-Once read in, the data was cleaned and organized so the variables were assigned as proper types to produce tidy, quaility visualizations.
+However, Python has adpated the R "palmerpenguins" dataset and created "penguins" for Python. This built in dataset was read in, cleaned, and organized so the variables were assigned as the proper types to produce tidy, quaility visualizations.
 
 ### Setting up for particular penguin analyses:
 
